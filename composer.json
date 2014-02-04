@@ -1,5 +1,5 @@
 {
-	"name": "kminek/cakephp-menu-builder",
+	"name": "kminek/menu-builder",
 	"type": "cakephp-plugin",
 	"description": "A dynamic menu building helper for CakePHP",
 	"keywords": ["cakephp","menu"],
